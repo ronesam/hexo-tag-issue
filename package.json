@@ -1,0 +1,33 @@
+{
+  "name": "hexo-tag-issue",
+  "version": "0.1.0",
+  "description": "hexo-tag-issue is a tag plugin for Hexo. That's make some question-answer on you page.",
+  "main": "index",
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ronesam/hexo-tag-issue.git"
+  },
+  "keywords": [
+    "Hexo",
+    "qiniu",
+    "sync",
+    "static",
+    "image",
+    "javascripts",
+    "stylesheet"
+  ],
+  "author": {
+    "name": "ronesam",
+    "email": "ronesam@qq.com",
+    "url": "http://ronesam.com/"
+  },
+  "license": "MIT",
+  "readme": "hexo-tag-issue is a tag plugin for Hexo. That's make some question-answer on you page.",
+  "readmeFilename": "README.md"
+}
