@@ -1,7 +1,7 @@
 {
-  "name": "hexo-tag-issue",
-  "version": "0.1.0",
-  "description": "hexo-tag-issue is a tag plugin for Hexo. That's make some question-answer on you page.",
+  "name": "hexo-tag-quiz",
+  "version": "1.0.0",
+  "description": "hexo-tag-quiz is a tag plugin for Hexo. That's make some quiz on you page.",
   "main": "index",
   "dependencies": {
   },
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ronesam/hexo-tag-issue.git"
+    "url": "https://github.com/ronesam/hexo-tag-quiz.git"
   },
   "keywords": [
     "Hexo",
@@ -28,6 +28,6 @@
     "url": "http://ronesam.com/"
   },
   "license": "MIT",
-  "readme": "hexo-tag-issue is a tag plugin for Hexo. That's make some question-answer on you page.",
+  "readme": "hexo-tag-quiz is a tag plugin for Hexo. That's make some quiz on you page.",
   "readmeFilename": "README.md"
 }

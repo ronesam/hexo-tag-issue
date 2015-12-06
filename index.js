@@ -1,3 +1,3 @@
 'use strict';
 
-hexo.extend.tag.register('issue', require('./lib/tag'), true);
+hexo.extend.tag.register('quiz', require('./lib/tag'), true);

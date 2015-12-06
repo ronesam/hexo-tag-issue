@@ -1,7 +1,12 @@
-# hexo-tag-issue
-hexo-tag-issue is a tag plugin for Hexo. That's make some question-answer on you page.
+# hexo-tag-quiz
+hexo-tag-quiz is a tag plugin for Hexo. That's make some question-answer on you page.
 
-# 正则表达式
+# 版本
+* v0.0.2 完成正则表达式
+* v0.0.1 建立文件，命名为hexo-tag-quiz
+
+# 实例
+> 
 ```issue [+]完成以下测试，做到全对以获得答案。
 [*s] 软件开发中需求工作的目的是
 * 让系统更加好卖 =T=
@@ -24,6 +29,8 @@ hexo-tag-issue is a tag plugin for Hexo. That's make some question-answer on you
 * 开发人员直接从需求映射设计
 * 开发人员直接从设计映射需求 =T=
 ```
+
+# 正则表达式
 ## 找到题目
 /\[([+*])([a-z]+)\] *(\S*)\n/ig
 
