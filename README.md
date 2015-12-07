@@ -31,6 +31,11 @@ hexo-tag-quiz is a tag plugin for Hexo. That's make some question-answer on you 
 ```
 
 # 正则表达式
+## 分析页面
+var rInlineCode = /(\s*)(`{3,}|~{3,}) *(.*) *(\2)(\n+|$)/g;
+var rBlockCode  = /(\s*)(`{3,}|~{3,}) *(.*) *\n?([\s\S]*?)\s*(\2)(\n+|$)/g;
+var rLang = /([^\s]+)\s*(.+)?\s*(.+)?/;
+
 ## 找到题目
 /\[([+*])([a-z]+)\] *(\S*)\n/ig
 
