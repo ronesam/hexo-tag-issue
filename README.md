@@ -1,9 +1,9 @@
-# hexo-tag-quiz
-hexo-tag-quiz is a tag plugin for Hexo. That's make some question-answer on you page.
+# hexo-tag-semiquiz
+hexo-tag-semiquiz is a tag plugin for Hexo. That's make some question-answer on you page.
 
 # 版本
 * v0.0.2 完成正则表达式
-* v0.0.1 建立文件，命名为hexo-tag-quiz
+* v0.0.1 建立文件，命名为hexo-tag-semiquiz
 
 # 实例
 > 

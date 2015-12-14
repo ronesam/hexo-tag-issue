@@ -1,9 +1,10 @@
 {
-  "name": "hexo-tag-quiz",
-  "version": "1.0.0",
-  "description": "hexo-tag-quiz is a tag plugin for Hexo. That's make some quiz on you page.",
+  "name": "hexo-tag-semiquiz",
+  "version": "0.1.0",
+  "description": "hexo-tag-semiquiz is a tag plugin for Hexo.Base on semiquizi. That's make some quiz on you page.",
   "main": "index",
   "dependencies": {
+    "semiquiz": "^0.1.10"
   },
   "devDependencies": {},
   "scripts": {
@@ -11,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ronesam/hexo-tag-quiz.git"
+    "url": "https://github.com/ronesam/hexo-tag-semiquiz.git"
   },
   "keywords": [
     "Hexo",
@@ -28,6 +29,6 @@
     "url": "http://ronesam.com/"
   },
   "license": "MIT",
-  "readme": "hexo-tag-quiz is a tag plugin for Hexo. That's make some quiz on you page.",
+  "readme": "hexo-tag-semiquiz is a tag plugin for Hexo. That's make some quiz on you page.",
   "readmeFilename": "README.md"
 }

@@ -1,3 +1,3 @@
 'use strict';
 
-hexo.extend.tag.register('quiz', require('./lib/tag'), true);
+hexo.extend.tag.register('semiquiz', require('./lib/tag'), true);
